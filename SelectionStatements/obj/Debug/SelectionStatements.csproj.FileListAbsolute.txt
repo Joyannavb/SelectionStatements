@@ -1,0 +1,8 @@
+C:\Users\joyan\repos\SelectionStatements\SelectionStatements\bin\Debug\SelectionStatements.exe.config
+C:\Users\joyan\repos\SelectionStatements\SelectionStatements\bin\Debug\SelectionStatements.exe
+C:\Users\joyan\repos\SelectionStatements\SelectionStatements\bin\Debug\SelectionStatements.pdb
+C:\Users\joyan\repos\SelectionStatements\SelectionStatements\obj\Debug\SelectionStatements.csproj.AssemblyReference.cache
+C:\Users\joyan\repos\SelectionStatements\SelectionStatements\obj\Debug\SelectionStatements.csproj.SuggestedBindingRedirects.cache
+C:\Users\joyan\repos\SelectionStatements\SelectionStatements\obj\Debug\SelectionStatements.csproj.CoreCompileInputs.cache
+C:\Users\joyan\repos\SelectionStatements\SelectionStatements\obj\Debug\SelectionStatements.exe
+C:\Users\joyan\repos\SelectionStatements\SelectionStatements\obj\Debug\SelectionStatements.pdb
